@@ -357,7 +357,7 @@ efficient and scalable solutions with clean, maintainable code
                   </HStack>
                   <HStack>
                     <Icon as={Languages} color="yellow.400" boxSize={5} />
-                    <Text>Arabic (Native), French (intrmedat), English (intrmedate to advenced)</Text>
+                    <Text>Arabic (Native), French (Intermediate), English (Intermediate to Advanced)</Text>
                   </HStack>
                 </VStack>
               </CardBody>
