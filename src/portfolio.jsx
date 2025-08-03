@@ -62,9 +62,9 @@ const Portfolio = () => {
 
   const skills = {
     programming: ['Python', 'JavaScript', 'TypeScript'],
-    frameworks: ['React', 'Next.js', 'Django', 'Flask', 'Node.js', 'Express.js'],
-    styling: ['Chakra UI', 'Tailwind CSS','Fraim motion','rest api'],
-    ai: ['LangChain', 'RAG', 'LLMs'],
+    frameworks: ['React', 'Next.js', 'Django', 'Flask', 'Node.js', 'Express.js','rest api'],
+    styling: ['Chakra UI', 'Tailwind CSS','Fraim motion'],
+    ai: ['LangChain', 'RAG', 'LLMs' ,'Agent'],
     tools: ['Git', 'Docker', 'AI Tools'],
     databases: ['MySQL', 'PostgreSQL', 'MongoDB', 'Supabase'],
     methodologies: ['SCRUM', 'Agile']
