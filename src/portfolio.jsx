@@ -96,6 +96,12 @@ const Portfolio = () => {
       category: 'AI/ML'
     },
     {
+      title: 'Gift – Smart Gifting Platform',
+      description: 'e-commerce platform for personalized gift recommendations and direct ordering by preference, occasion, and budget.',
+      tech: [ 'React', 'Node.js', 'Express', 'MongoDB', 'Chakra UI'],
+      category: 'Full Stack E-commerce'
+    },
+    {
       title: 'TranslationManager',
       description: 'Platform for managing and automating multilingual content translation.',
       tech: ['React', 'Node.js','Express.js', 'MongoDB','Cloudinary','Translation APIs'],
