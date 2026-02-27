@@ -723,7 +723,7 @@ const Portfolio = () => {
                   <div className="timeline-dot" />
                   <div>
                     <h4 style={{ fontWeight: 600, color: '#f0f4ff', marginBottom: 4 }}>Teaching Assistant</h4>
-                    <div style={{ fontFamily: 'DM Mono', fontSize: '0.7rem', color: '#6b7280', marginBottom: 12 }}>University of Chlef · 2023–2025</div>
+                    <div style={{ fontFamily: 'DM Mono', fontSize: '0.7rem', color: '#6b7280', marginBottom: 12 }}>University of Chlef · 2025-2026</div>
                     <ul style={{ color: '#9ca3af', fontSize: '0.85rem', lineHeight: 1.7, paddingLeft: 16, display: 'flex', flexDirection: 'column', gap: 4 }}>
                       <li>Assisted students during practical lab sessions</li>
                       <li>Explained core programming and data structure concepts</li>
