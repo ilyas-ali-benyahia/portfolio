@@ -746,9 +746,13 @@ const Portfolio = () => {
               <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
                 {[
                   { emoji: '🥇', title: '1st Place — AI Competition', desc: 'University of Constantine', color: '#f59e0b' },
-                  { emoji: '🥉', title: '3rd Place — Tech Hackathon', desc: 'Regional competition', color: '#6b7280' },
-                  { emoji: '🏅', title: '24-Hour Coding Competition', desc: 'Organized by Mobilis', color: '#00d4ff' },
-                  { emoji: '📜', title: 'Technical Workshop Certificates', desc: 'Multiple workshops in Constantine', color: '#a855f7' },
+                  { emoji: '🥉', title: '3rd Place — Tech Hackathon', desc: 'Organized by Mobilis', color: '#6b7280' },
+                 { 
+  emoji: '📜', 
+  title: 'Technical Workshop Certificates', 
+  desc: 'Participation in multiple advanced technical workshops in Constantine and a certified technical workshop at the University of Chlef', 
+  color: '#a855f7' 
+},
                 ].map(award => (
                   <div key={award.title} className="award-card">
                     <span style={{ fontSize: '1.4rem' }}>{award.emoji}</span>
